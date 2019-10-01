@@ -1,0 +1,4 @@
+
+1. Create virtual environment for the Blog
+2. Activate the virtual environment console 
+3. Install the Flask microframework into project
